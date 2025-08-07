@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Miriah (aka Mia) 👋
 
-<!--
-**HexaSlip/HexaSlip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Future cybersecurity specialist | Aspiring red teamer | Self-taught and cert-backed  
+🧪 Currently working on: honeypots, Linux, and network traffic analysis  
+📚 Google Cybersecurity Certificate (nearly complete) | Security+ & FEMA ICS-100 incoming  
+🚀 Accepted to Penn State | Planning a double major in Cybersecurity and Engineering
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- Wireshark, tcpdump, nmap  
+- Linux terminal, Kali basics  
+- SIEM (conceptual), packet analysis  
+- GitHub, Markdown, CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Highlight Projects
+- [`operation-black-widow`](https://github.com/hexaslip/operation-black-widow): Local honeypot simulation  
+- Notes & walkthroughs from Google Cybersecurity Program
