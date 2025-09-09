@@ -12,7 +12,7 @@ I'm a dedicated and self-motivated cybersecurity professional with a strong focu
 ## 📂 Highlight Projects
 ### **Operation Black Widow: A Local Honeypot Simulation**
 A project where I designed and configured a local honeypot to attract and analyze malicious activity. This project demonstrates my practical skills in threat intelligence gathering, log analysis, and understanding attacker methodologiesin a controlled environment. 
-[**Watch a video demonstration of this project!**] 
+[**Watch a video demonstration of this project!**][https://www.linkedin.com/feed/update/urn:li:activity:7371150413406015488/]  
 ---
 ### **Google Cybersecurity Certificate: Practical Exercises and Walkthroughs** 
 A comprehensive repository documenting my hands-on learning from the Google Cybersecurity Certificate. The projects within this repository focus on practical skills in network analysis, incident response, and threat intelligence. 
