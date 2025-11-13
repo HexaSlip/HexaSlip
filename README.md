@@ -1,6 +1,5 @@
 # Hi, I'm Miriah (aka Mia) 👋 
-I'm a dedicated and self-motivated cybersecurity professional with a strong focus on red teaming. My passion lies in applying my skills in threat emulation and defensive strategies to proactively protect systems and outsmart cyber adversaries. 
---- 
+I'm a driven __Cybersecurity Analyst Candidate__ on a trajectory toward __Security Consulting__, leveraging hands-on experience in __threat detection, strategic analysis, and incident response.__ My focus is on applying technical rigor and __NIST CSF 2.0 governance__ to proactively protect systems and translate technical findings into strategic client solutions.
 
 ## 🛠️ Skills & Tools
 - **Network Analysis & Reconnaissance:** Hands-on experience with **Wireshark**, **tcpdump**, and **nmap** for identifying vulnerabilities and analyzing network traffic.
