@@ -13,7 +13,7 @@ I'm a driven __Cybersecurity Analyst Candidate__ on a trajectory toward __Securi
 - __Linux Honeypot Setup:__ Demonstrated system defense and threat analysis.
   Check out my Personal Honeypot (Operation Black Widow) code [here](https://github.com/HexaSlip/Operation-Black-Widow/blob/main/black_widow_honeypot%20.py). 
 #### Data Analysis 📊
-- __Python Log Scanner:__ Built for parsing large log files to identify security events
+- __Python Log Scanner:__ Built for parsing large log files and automating even correlation, demonstrating foundational understanding of __SIEM logic and data pipeline design.__
   Check out my Python Log Scanner code [here](https://github.com/HexaSlip/Python-Log-Scanner-Project-/blob/main/log_scanner.py)
 #### Core Logic 💻
 - __Cryptography Mini-Projects:__ Solid algorithms (Ciphers, Luhn) showcasing clean Python logic.
