@@ -27,6 +27,10 @@ Automated log parsing using Regex + GeoLite2.
 Fork of Pygoat - Vulnerable Python/Django Web Application for CodeQL, SAST, and DevSecOps Training. 
 [View Project](https://github.com/HexaSlip/pygoat) 
 
+### Security Pipeline (GitHub Actions + Bandit)
+Automated a DevSecOps security pipeline using GitHub Actions to run Bandit SAST scans on every push and pull request. 
+[View Project](https://github.com/HexaSlip/security-pipeline-demo)
+
 ## 🤝 Let's Connect
 I'm always open to connecting with others in AppSec, DevSecOps, and security engineering.
 
